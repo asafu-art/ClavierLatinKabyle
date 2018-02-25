@@ -1,5 +1,5 @@
 // Taqbaylit en caractères latins 
-// Mustafa Kamel Ben Ramdane
+// Mustafa Kamal Ben Ramdane
 // em_ben_ramdane@esi.dz
 
 //
@@ -49,7 +49,7 @@ xkb_symbols "kab" {
     key <AD06>	{ [    y,    Y ] };// y Y
     key <AD07>	{ [    u,    U]	};// u U
     key <AD08>	{ [    i,    I]	};// i I
-    key <AD09>	{ [    o,    O, œ, Œ]	};// o O œ Œ
+    key <AD09>	{ [    o,    O, oe, OE]	};// o O œ Œ
     key <AD10>	{ [    p,    P]	};// p P
     key <AD11>	{ [dead_circumflex, dead_diaeresis, dead_diaeresis, dead_abovering ] };
     key <AD12>	{ [    dollar,   sterling,    0x10003B5, 0x10003A3 ]	};// $ £ ε Σ
