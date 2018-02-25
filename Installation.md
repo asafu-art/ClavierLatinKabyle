@@ -5,11 +5,11 @@ Be aware that this installation process has been tested on ArchLinux and Ubuntu1
 All operations will be done as **root**.
 
 1.  Copy the file `symbols/dz` to `/usr/share/X11/xkb/symbols/dz`.
-2.  Add `kb              Amazigh (Kabylia)` after `!layout` and 
+2.  Add `kab              Taqbaylit (KAB)` after `!layout` and 
 ```
-  ber             kb: Berber (Kabylia, Tifinagh characters)
-  kb              kb: Latin (Kabylia, Latin characters)
-  fr              kb: French (Kabylia)
+  ber             kab: Berber (Kabylia, Tifinagh characters)
+  kab             kab: Latin (Kabylia, Latin characters)
+  fr              kab: French (Kabylia)
 ```
 after `! variant` in `/usr/share/X11/xkb/rules/base.lst` and `/usr/share/X11/xkb/rules/evdev.lst`.
 
@@ -18,8 +18,8 @@ after `! variant` in `/usr/share/X11/xkb/rules/base.lst` and `/usr/share/X11/xkb
     ```
     <layout>
       <configItem>
-        <name>kb</name>
-        <shortDescription>kb</shortDescription>
+        <name>kab</name>
+        <shortDescription>kab</shortDescription>
         <description>Kabylian (Kabylia, Latin characters)</description>
       </configItem>
       <variantList>
