@@ -4,7 +4,7 @@ Be aware that this installation process has been tested on ArchLinux and Ubuntu1
 
 All operations will be done as **root**.
 
-1.  Copy the file `symbols/dz` to `/usr/share/X11/xkb/symbols/dz`.
+1.  Copy the file `symbols/kab` to `/usr/share/X11/xkb/symbols/kab`.
 2.  Add `kab              Taqbaylit (KAB)` after `!layout` and 
 ```
   ber             kab: Berber (Kabylia, Tifinagh characters)
