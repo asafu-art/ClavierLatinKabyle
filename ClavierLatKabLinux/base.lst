@@ -1,0 +1,8 @@
+!layout
+  kab              Taqbaylit (KAB)
+
+
+! variant
+  ber             kab: Berber (Kabylia, Tifinagh characters)
+  kab             kab: Latin (Kabylia, Latin characters)
+fr kab: French (Kabylia)
