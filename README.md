@@ -5,7 +5,12 @@ Ixeddim deg-s simmal ittkemmil γer zdat, ladγa mi ara d-tettakem tiktiwin neγ
 
 Inasiwen
 ---------
-Illa dagi unasiw n teqbaylit i Linux akked Windows, rsen deg yikarimen mgaraden. Di Linux, nexdem anasiw s tlatinit akked wayeḍ s tfinaγ. Ma di Windows, nexdem kan winn n tlatinit acku winn n tfinagh yella yakan.
+Illa dagi unasiw n teqbaylit i Linux akked Windows, rsen deg yikarimen mgaraden. 
+
+ClavierLatKabLinux:   i wid isseqdacen Linux.
+ClavierLatKabWindows: i win isseqdacen Windows.
+
+Di Linux, nexdem anasiw s tlatinit akked wayeḍ s tfinaγ. Ma di Windows, nexdem kan winn n tlatinit acku winn n tfinagh yella yakan.
 
 Asider
 ------
