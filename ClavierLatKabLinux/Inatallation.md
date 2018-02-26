@@ -9,7 +9,6 @@ All operations will be done as **root**.
 ```
   ber             kab: Berber (Kabylia, Tifinagh characters)
   kab             kab: Latin (Kabylia, Latin characters)
-  fr              kab: French (Kabylia)
 ```
 after `! variant` in `/usr/share/X11/xkb/rules/base.lst` and `/usr/share/X11/xkb/rules/evdev.lst`.
 
@@ -33,19 +32,9 @@ after `! variant` in `/usr/share/X11/xkb/rules/base.lst` and `/usr/share/X11/xkb
             </languageList>
           </configItem>
         </variant>
-        <variant>
-          <configItem>
-            <name>french</name>
-            <shortDescription>fr</shortDescription>
-            <description>French (Kabylia)</description>
-            <languageList>
-              <iso639Id>fra</iso639Id>
-            </languageList>
-          </configItem>
-        </variant>
       </variantList>
     </layout>
     ```
 4.  Restart the Xorg server or your computer.
 5.  Now you can find the layout in the keyboard settings of your desktop manager: 
-Berber (Kabylia, Tifinagh characters), Latin (Kabylia, Latin characters) or French (Kabylia).
+Berber (Kabylia, Tifinagh characters) or Latin (Kabylia, Latin characters).
