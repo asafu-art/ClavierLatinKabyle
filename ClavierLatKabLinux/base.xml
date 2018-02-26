@@ -19,16 +19,6 @@
             </languageList>
           </configItem>
         </variant>
-        <variant>
-          <configItem>
-            <name>french</name>
-            <shortDescription>fr</shortDescription>
-            <description>French (Kabylia)</description>
-            <languageList>
-              <iso639Id>fra</iso639Id>
-            </languageList>
-          </configItem>
-        </variant>
       </variantList>
     </layout>
 ...
