@@ -61,7 +61,7 @@ xkb_symbols "kab" {
     key <AC06>	{ [         h,          H,           0x1001E25, 0x1001E24 ]	};// h H ḥ Ḥ
     key <AC07>	{ [         j,          J ] };// j J
     key <AC08>	{ [         k,          K ] };// k K
-    key <AC09>	{ [         l,          L ] };// l L
+    key <AC09>	{ [         l,          L , 0x1000142, 0x1000141 ] };// l L ł Ł
     key <AC10>	{ [         m,          M]};
     key <AC11>	{ [    ugrave,    percent, 0x10003B3,  0x1000393]	};// ù % γ Γ
     key <TLDE>	{ [twosuperior, asciitilde,     notsign,      notsign ]	};// ² ~ 
