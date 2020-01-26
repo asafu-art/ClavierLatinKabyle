@@ -1,7 +1,7 @@
 # ClavierLatinKabyle
 Azul fell-awen,
 Wagi d anasiw n tlatinit n teqbaylit i wid isseqdacen Linux akked Windows.
-Ixeddim deg-s simmal ittkemmil γer zdat, ladγa mi ara d-tettakem tiktiwin neγ tamiwin ara neṭṭef i wakken ad ngarrez ccγel nneγ.
+Ixeddim deg-s simmal ittkemmil ɣer zdat, ladɣa mi ara d-tettakem tiktiwin neɣ tamiwin ara neṭṭef i wakken ad ngarrez ccɣel nneɣ.
 
 Inasiwen
 ---------
@@ -10,7 +10,7 @@ Illa dagi unasiw n teqbaylit i Linux akked Windows, rsen deg yikarimen mgaraden.
 ClavierLatKabLinux:   i wid isseqdacen Linux.
 ClavierLatKabWindows: i win isseqdacen Windows.
 
-Di Linux, nexdem anasiw s tlatinit akked wayeḍ s tfinaγ. Ma di Windows, nexdem kan winn n tlatinit acku winn n tfinagh yella yakan.
+Di Linux, nexdem anasiw s tlatinit akked wayeḍ s tfinaɣ. Ma di Windows, nexdem kan winn n tlatinit acku winn n tfinagh yella yakan.
 
 Asider
 ------
@@ -20,6 +20,6 @@ Ma d win i t-iran i Windows, ad tafem daxel ahil n usider. Tefṛet kan tisuraf 
 
 Tamiwin
 -------
-Winn isεan tamawt neγ asteqsi, neγ ah-at winn ibγan ad d-yefk afus di leqdic-agi, izmer ad aγ-yeǧǧ awal-is dagi di github, neγ ad n-yazen tuzint γer tansa em_ben_ramdane@esi.dz
+Winn isɛan tamawt neɣ asteqsi, neɣ ah-at winn ibɣan ad d-yefk afus di leqdic-agi, izmer ad aɣ-yeǧǧ awal-is dagi di github, neɣ ad n-yazen tuzint ɣer tansa em_ben_ramdane@esi.dz
 
 Tanemmirt.
