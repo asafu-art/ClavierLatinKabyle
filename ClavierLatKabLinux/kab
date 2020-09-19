@@ -1,5 +1,6 @@
-// Taqbaylit en caractères latins 
-// Mustafa Kamal Ben Ramdane
+// Kabyle in latin characters
+// Taqbaylit s yisekkilen n tlatinit
+// Kamal Mestafa 
 // em_ben_ramdane@esi.dz
 
 //
@@ -7,11 +8,11 @@
 // │ ¬   │ 1   │ 2 É │ 3 ˘ │ 4 — │ 5 – │ 6 ‑ │ 7 È │ 8 ™ │ 9 Ç │ 0 À │ ° ≠ │ + ± ┃ ⌫ Retour ┃
 // │ ²   │ & ˇ │ é ~ │ " # │ ' { │ ( [ │ - | │ è ` │ _ \ │ ç ^ │ à @ │ ) ] │ = } ┃  arrière ┃
 // ┢━━━━━┷━┱───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┴─┬───┺━━┳━━━━━━━┫
-// ┃       ┃ A Æ │ Z Â │ E ¢ │ R Ṛ │ T Ṭ │ Y Ÿ │ U Û │ I Î │ O Œ │ P Ô │ ¨ ˚ │ £ Σ ┃Entrée  ┃
-// ┃Tab ↹  ┃ a æ │ z â │ e € │ r ṛ │ t ṭ │ y ÿ │ u û │ i î │ o œ │ p ô │ ^ ~ │ $ ε ┃   ⏎    ┃
+// ┃       ┃ A Æ │ Z Ẓ │ E ¢ │ R Ṛ │ T Ṭ │ Y Ÿ │ U Û │ I Î │ O Œ │ P Ô │ ¨ ˚ │ £ Ɛ ┃Entrée  ┃
+// ┃Tab ↹  ┃ a æ │ z ẓ │ e € │ r ṛ │ t ṭ │ y ÿ │ u û │ i î │ o œ │ p ô │ ^ ~ │ $ ɛ ┃   ⏎    ┃
 // ┣━━━━━━━┻┱────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴┬────┴─┬───┺┓      ┃
-// ┃        ┃ Q Ä │ S Ṣ │ D Ḍ │ F Ţ │ G Ǧ │ H Ḥ │ J Ü │ K Ï │ L Ŀ │ M Ö │ % Ù  │ µ Γ┃      ┃
-// ┃Maj ⇬   ┃ q ä │ s ṣ  │ d ḍ │ f ţ │ g ǧ │ h ḥ │ j ü │ k ï │ l ŀ │ m ö │ ù '  │ * γ┃    ┃
+// ┃        ┃ Q Ä │ S Ṣ │ D Ḍ │ F Ţ │ G Ǧ │ H Ḥ │ J Ü │ K Ï │ L Ł │ M Ö │ % Ù  │ µ Ɣ┃      ┃
+// ┃Maj ⇬   ┃ q ä │ s ṣ  │ d ḍ │ f ţ │ g ǧ │ h ḥ │ j ü │ k ï │ l ł │ m ö │ ù '  │ * ɣ┃    ┃
 // ┣━━━━━━━┳┹─────┬┴────┬┴────┬┴────┬┴────┬┴────┬┴────┬┴────┬┴────┬┴────┬┴────┲┷━━━━┻━━━━━┫
 // ┃       ┃ > ≥  │ W < │ X > │ C Č │ V ‘ │ B ’ │ N   │ ?   │ . × │ / ∕ │ §   ┃         ┃
 // ┃Shift ⇧┃ < ≤  │ w « │ x » │ c č │ v “ │ b ” │ n   │ ,   │ ;   │ : ÷ │ !   ┃Shift ⇧ ┃
@@ -52,7 +53,7 @@ xkb_symbols "kab" {
     key <AD09>	{ [    o,    O, oe, OE]	};// o O œ Œ
     key <AD10>	{ [    p,    P]	};// p P
     key <AD11>	{ [dead_circumflex, dead_diaeresis, dead_diaeresis, dead_abovering ] };
-    key <AD12>	{ [    dollar,   sterling,    0x10003B5, 0x10003A3 ]	};// $ £ ε Σ
+    key <AD12>	{ [    dollar,   sterling,    0x10003B5, 0x10003A3 ]	};// $ £ ɛ Ɛ
     key <AC01>	{ [         q,          Q ] };// q Q
     key <AC02>	{ [         s,          S,           0x1001E63, 0x1001E62 ]	};// s s ṣ Ṣ
     key <AC03>	{ [         d,          D,           0x1001E0D, 0x1001E0C ]	};// d D ḍ Ḍ
@@ -63,9 +64,9 @@ xkb_symbols "kab" {
     key <AC08>	{ [         k,          K ] };// k K
     key <AC09>	{ [         l,          L , 0x1000142, 0x1000141 ] };// l L ł Ł
     key <AC10>	{ [         m,          M]};
-    key <AC11>	{ [    ugrave,    percent, 0x10003B3,  0x1000393]	};// ù % γ Γ
+    key <AC11>	{ [    ugrave,    percent, 0x10003B3,  0x1000393]	};// ù % ɣ Ɣ
     key <TLDE>	{ [twosuperior, asciitilde,     notsign,      notsign ]	};// ² ~ 
-    key <BKSL>	{ [  asterisk,         mu,   dead_grave,   dead_breve ]	};// * µ 
+    key <BKSL>	{ [  asterisk,         mu,   dead_grave,   dead_breve ]	};// * µ
     key <AB01>	{ [         w,          W ] };
     key <AB03>	{ [ c,          C,  0x100010D , 0x100010C ]	};// c C č Č
     key <AB07>	{ [     comma,   question,   dead_acute, dead_doubleacute ] };// , ? 
