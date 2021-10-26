@@ -25,7 +25,28 @@ Ixeddim deg-s simmal ittkemmil ɣer zdat, ladɣa mi ara d-tettakem tiktiwin neɣ
 Winn isɛan tamawt neɣ asteqsi, neɣ ahat winn ibɣan ad d-yefk afus di leqdic-agi, izmer ad aɣ-yeǧǧ awal-is dagi di Github, neɣ ad n-yazen tuzint ɣer tansa kamal.mestafa.ar@gmail.com
 
 
-# ClavierLatinKabyle
+# Clavier Latin Kabyle
+
+Ce dépot contient des clavier de langue Kabyle pour les systèmes Linux et Windows.
+
+## Claviers
+
+Les claviers pour Linuw et Windows sont mis dans des répertoires différents: 
+
+- ClavierLatKabLinux: pour Linux, disponible en graphie latine comme en tifinagh.
+
+- ClavierLatKabWindows: pour Windows, disponible uniquement en latin.
+
+## Installation
+
+Pour utiliser le clavier kabyle sous Linux, il faudra installer les fichier de clavier manuellement sur le système d'exploitation.
+
+Pour utiliser le clavier kabyle sous Windows, suivez les instruction indiquées dans le fichier "installation.md" du répertoire.
+
+## Remarques
+
+Ce travail est en cours de développement. Vos remarques et indications sont les bienvenues. Veuillez les soumettre ici sur Github ou bien les envoyer à l'adresse kamal.mestafa.ar@gmail.com
+
 
 
 
