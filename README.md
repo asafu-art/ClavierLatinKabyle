@@ -1,28 +1,29 @@
 # Anasiw n teqbaylit s tlatinit
 
 Wagi d anasiw n tlatinit n teqbaylit i wid isseqdacen Linux akked Windows.
-Ixeddim deg-s simmal ittkemmil ɣer zdat, ladɣa mi ara d-tettakem tiktiwin neɣ tamiwin ara neṭṭef i wakken ad ngarrez ccɣel nneɣ.
 
 ## Inasiwen
 
-Illa dagi unasiw n teqbaylit i Linux akked Windows, rsen deg yikarimen mgaraden. 
+Inasiwen n teqbaylit i Linux akked Windows rsen deg yikarimen mgaraden: 
 
-ClavierLatKabLinux:   i wid isseqdacen Linux.
-ClavierLatKabWindows: i win isseqdacen Windows.
+- ClavierLatKabLinux:   i wid isseqdacen Linux, illa s tlatinit akked tfinaɣ.
 
-Di Linux, nexdem anasiw s tlatinit akked wayeḍ s tfinaɣ. Ma di Windows, nexdem kan winn n tlatinit acku winn n tfinagh yella yakan.
+- ClavierLatKabWindows: i win isseqdacen Windows, illa kan s tlatinit.
 
 ## Asider
 
 Winn iran anasiw n Linux, ilaq ad t-issider s ufus. Deg ukarim n unasiw, ad tafem akk tisuraf ilaqen i wakken ad tessidrem anasiw nwen akken iwata.
-Ma d win i t-iran i Windows, ad tafem daxel ahil n usider. Tefṛet kan tisuraf i d-yuran deg ufaylu installation.md.
+
+Ma d win i t-iran i Windows, ad tafem daxel ahil n usider. Ḍefṛet kan tisuraf i d-yuran deg ufaylu "installation.md".
 
 
 ## Tamiwin
 
-Winn isɛan tamawt neɣ asteqsi, neɣ ah-at winn ibɣan ad d-yefk afus di leqdic-agi, izmer ad aɣ-yeǧǧ awal-is dagi di github, neɣ ad n-yazen tuzint ɣer tansa kamal.mestafa.ar@gmail.com
+Ixeddim deg-s simmal ittkemmil ɣer zdat, ladɣa mi ara d-tettakem tiktiwin neɣ tamiwin ara neṭṭef i wakken ad ngarrez ccɣel-nneɣ.
 
-Tanemmirt.
+
+Winn isɛan tamawt neɣ asteqsi, neɣ ahat winn ibɣan ad d-yefk afus di leqdic-agi, izmer ad aɣ-yeǧǧ awal-is dagi di Github, neɣ ad n-yazen tuzint ɣer tansa kamal.mestafa.ar@gmail.com
+
 
 # ClavierLatinKabyle
 
