@@ -27,7 +27,7 @@ Winn isɛan tamawt neɣ asteqsi, neɣ ahat winn ibɣan ad d-yefk afus di leqdic-
 
 # Clavier Latin Kabyle
 
-Ce dépot contient des clavier de langue Kabyle pour les systèmes Linux et Windows.
+Ce dépot contient des claviers de langue Kabyle pour les systèmes Linux et Windows.
 
 ## Claviers
 
